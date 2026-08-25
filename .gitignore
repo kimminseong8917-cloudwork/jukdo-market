@@ -1,10 +1,5 @@
-# Vercel CLI 로컬 연결 정보(프로젝트 ID 등) — 저장소에 올리지 않음
+# Vercel CLI 로컬 연결 정보(프로젝트 ID 등)
 .vercel/
-**/.vercel/
-
-# 배포용 폴더 — 위 원본 HTML을 index.html로 복사한 것뿐이라 중복
-jukdo-market/
-jukdo-market-v9/
 
 # OS
 Thumbs.db

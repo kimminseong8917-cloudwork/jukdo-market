@@ -13,9 +13,10 @@
 
 📄 **[케이스 스터디 — 어떻게 만들었나](CASE_STUDY.md)**
 
-> 현재 버전: v35.1 · `2026-08-24_죽도시장_공유버전_v35_1.html` · 단일 HTML 977KB · 빌드 도구 없음
+> 현재 버전: v35.1 · `index.html` 단일 파일 977KB · 빌드 도구 없음
+> (원본 파일명: `2026-08-24_죽도시장_공유버전_v35_1.html`)
 >
-> 이전 버전인 [v9](README_v9.md)는 `localStorage` 기반이라 데이터가 기기별로 분리됐습니다.
+> 이전 버전인 [v9](https://github.com/kimminseong8917-cloudwork/jukdo-market-v9#readme)는 `localStorage` 기반이라 데이터가 기기별로 분리됐습니다.
 > 그 한계를 푼 것이 이 버전의 자기복제형 공유 구조입니다.
 
 ---
@@ -55,7 +56,7 @@
 
 ```bash
 # 방법 1 — 그냥 브라우저로 열기 (개인 데모용, 데이터는 내 기기에만 저장)
-start 2026-08-24_죽도시장_공유버전_v35_1.html
+start index.html
 ```
 
 ```bash

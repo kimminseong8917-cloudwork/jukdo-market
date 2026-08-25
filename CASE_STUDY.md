@@ -9,7 +9,7 @@
 | 산출물 | 단일 HTML 977KB · 실제 소스 약 8,200줄 |
 | 기술 | 순수 HTML/CSS/JS — 프레임워크·번들러·백엔드 없음 |
 | 데모 | https://jukdo-market.vercel.app |
-| 문서 | [README](README.md) · [v9 케이스 스터디](CASE_STUDY_v9.md) |
+| 문서 | [README](README.md) · [v9 프로젝트](https://github.com/kimminseong8917-cloudwork/jukdo-market-v9#readme) |
 
 ---
 
