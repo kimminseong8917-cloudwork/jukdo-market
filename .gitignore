@@ -1,6 +1,9 @@
 # Vercel CLI 로컬 연결 정보(프로젝트 ID 등)
 .vercel/
 
+# 제출용 로컬 바로가기 — 이 저장소 자신을 가리키므로 저장소에는 포함하지 않음
+*.url
+
 # OS
 Thumbs.db
 desktop.ini
